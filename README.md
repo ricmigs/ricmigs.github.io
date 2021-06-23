@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ricmigs
-- 👀 I’m interested in Linguistics and in Language acquisition
+- 👀 I’m interested in Linguistics, Language acquisition and Web Development 
 - 🌱 I’m currently learning R and Python
 - 💞️ I’m looking to collaborate on Language acquisition studies!
 - 📫 How to reach me: r.miguel@campus.ul.pt 
