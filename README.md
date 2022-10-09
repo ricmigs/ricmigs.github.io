@@ -9,7 +9,7 @@ My research interestsd are realted with Language Acquisition, Speech Pathology, 
 
 📫 How to reach me: ricardomigsousa@gmail.com 
 
-🏠 - https://ricmigs.github.io/ricmigs/index.html
+🏠 - https://ricmigs.github.io
 
 <!---
 ricmigs/ricmigs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
