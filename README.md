@@ -1,11 +1,9 @@
 
 👋 Hi, I'm Ricardo
 
-I am a PhD student in Linguistics at the University of Lisbon and a research fellow at the <a href="http://labfon.letras.ulisboa.pt"> Phonetics and Phonology Lab</a> & <a href="http://labfon.letras.ulisboa.pt/babylab/index.html"> Lisbon Baby Lab</a>. 
+I'm a Data Quality Specialist. I'm mostly interested in python, R and SQL.
 
-My research interestsd are realted with Language Acquisition, Speech Pathology, Speech Processing and Cognitive sciences.
-
-🌱 I’m currently learning R and Python!
+🌱 I’m currently learning on how to make dashboard on PowerBi!
 
 📫 How to reach me: ricardomigsousa@gmail.com 
 
